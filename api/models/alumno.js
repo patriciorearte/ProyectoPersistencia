@@ -13,5 +13,5 @@ module.exports = (sequelize, DataTypes) => {
         foreingKey: 'id_carrera'
       })
   };
-  return materia;
+  return alumno;
 };
